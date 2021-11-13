@@ -22,7 +22,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos dados do Airbnb:** https://bit.ly/2L2cMwy
+* **Análise dos dados do Airbnb:** https://bit.ly/3c71SCH
 
 ---
 
