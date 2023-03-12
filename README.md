@@ -20,7 +20,7 @@ Sou estudante de engenharia elétrica e estou iniciando os estudos na área de *
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos dados do Airbnb:** http://bit.ly/4034hVK
+* **Análise dos dados do Airbnb:** https://bit.ly/3JyzXNg
 
 ---
 
