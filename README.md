@@ -17,8 +17,7 @@ Meu objetivo com o estudo nesta área é desenvolver habilidades analíticas, co
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos dados do Airbnb:** https://bit.ly/3JyzXNg
-
+* **Análise dos dados do Airbnb:** https://bit.ly/3RRptgi
 ---
 
 
