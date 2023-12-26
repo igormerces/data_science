@@ -7,7 +7,7 @@
 # Igor Mercês
 <sub>*Estudante de engenharia*</sub>
 
-Sou estudante de Engenharia Elétrica na Universidade Federal do Rio de Janeiro (UFRJ) e estou iniciando os estudos na área de *Data Science*. Este é o meu portifólio com projetos desenvolvidos ao longo do meu aprendizado.
+Sou estudante de Engenharia Elétrica na Universidade Federal do Rio de Janeiro (UFRJ) e estou iniciando os estudos na área de *Data Science*. Este é o meu portifólio e será atualizado com projetos desenvolvidos ao longo do meu aprendizado.
 
 Meu objetivo com o estudo nesta área é desenvolver habilidades analíticas, combinar pensamento crítico e atenção aos detalhes para ampliar a capacidade no desenvolvimento de projetos e resolução de problemas na área acadêmica e profissional.
 
