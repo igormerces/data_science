@@ -11,7 +11,7 @@ Sou estudante de Engenharia Elétrica na Universidade Federal do Rio de Janeiro 
 
 Meu objetivo com o estudo nesta área é desenvolver habilidades analíticas, combinar pensamento crítico e atenção aos detalhes para ampliar a capacidade no desenvolvimento de projetos e resolução de problemas na área acadêmica e profissional.
 
-**Trilha de aprendizado:** Python, Manipulação e Visualização de Dados, Machine Learning.
+**Trilha de aprendizado:** Python, Manipulação e Visualização de Dados, Machine Learning, Deed Learning.
 
 
 ## Projetos:
